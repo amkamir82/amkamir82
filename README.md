@@ -1,4 +1,4 @@
-### Hi there I'm AmirMahdi Kousheshi (Dutchman)👋
+### Hi there, I'm AmirMahdi Kousheshi (Dutchman)👋
 
 <!--
 **amkamir82/amkamir82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
